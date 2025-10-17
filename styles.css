@@ -7,7 +7,7 @@
     /* modern soğuk mavi-gri */
     --accent-2: #fffcfc;
     /* yumuşak destek tonu */
-    --hero-image: url('https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?q=80&w=1400&auto=format&fit=crop');
+    --hero-image: url('https://images.unsplash.com/photo-1600891964599-f61ba0e24092?q=80&w=1400&auto=format&fit=crop');
     --shadow: 0 10px 30px rgba(0, 0, 0, .06);
 }
 
@@ -318,7 +318,7 @@ body {
     /* modern soğuk mavi-gri */
     --accent-2: #329e75;
     /* yumuşak destek tonu */
-    --hero-image: url('https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?q=80&w=1400&auto=format&fit=crop');
+    --hero-image: url('https://images.unsplash.com/photo-1600891964599-f61ba0e24092?q=80&w=1400&auto=format&fit=crop');
     --shadow: 0 10px 30px rgba(0, 0, 0, .06);
 }
 
