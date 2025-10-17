@@ -3,7 +3,7 @@ const DATA = {
   categories: ["Ana Yemekler", "İçecekler"],
   items: [
     // Ana Yemekler
-    { id: 1, name: "Köfte Ekmek", price: null, category: "Ana Yemekler" },
+    { id: 1, name: "Köfte Ekmek", price: 200, category: "Ana Yemekler" },
     { id: 2, name: "Tavuk Ekmek", price: null, category: "Ana Yemekler" },
     { id: 3, name: "Sucuk Ekmek", price: null, category: "Ana Yemekler" },
     { id: 4, name: "Kokoreç Ekmek", price: null, category: "Ana Yemekler" },
@@ -115,3 +115,4 @@ if (backToTop) {
   renderChips(null);
   renderSections();
 })();
+
